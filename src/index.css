@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-primary: #00f0ff;
+  --color-secondary: #7000ff;
+  --color-bg: #0a0a0a;
+  --color-text: #ffffff;
+}
+
+body {
+  margin: 0;
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  overflow-y: auto;
+}
+
+canvas {
+  display: block;
+}
