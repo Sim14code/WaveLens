@@ -2,6 +2,8 @@
 
 WaveLens is an interactive, browser-based physics visualization platform designed to help students and educators visualize wave phenomena. It provides real-time simulations of Single Slit Diffraction, Double Slit Interference, and Diffraction Gratings.
 
+**Live Link**: https://wavelens.netlify.app/
+
 ## Features
 
 - **Real-Time Parameter Control**: Manipulate Wavelength, Slit Width, and Slit Separation instantly.
